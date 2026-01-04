@@ -1,1 +1,13 @@
-What is DevOps
+What is DevOps?
+
+DevOps is a collab between Development  and Operations  team that uses automation to deliver software faster and more reliably.
+
+-> Automation
+-> Quality
+-> Monitoring
+-> Testing
+
+Why DevOps?
+
+DevOps is used to deliver software faster, reduce errors, and improve collaboration between teams.
+(DevOps isliye use hota hai taaki software fast deliver ho, errors kam ho, aur development aur operations team milkar smoothly kaam kare.)
