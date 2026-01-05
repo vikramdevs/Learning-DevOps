@@ -7,7 +7,13 @@ DevOps is a collab between Development  and Operations  team that uses automatio
 -> Monitoring
 -> Testing
 
+
 Why DevOps?
 
 DevOps is used to deliver software faster, reduce errors, and improve collaboration between teams.
 (DevOps isliye use hota hai taaki software fast deliver ho, errors kam ho, aur development aur operations team milkar smoothly kaam kare.)
+
+
+What is SDLC? (Software Development Life Cycle)
+
+SDLC is a step-by-step process used to plan, develop, test, deploy, and maintain software.
