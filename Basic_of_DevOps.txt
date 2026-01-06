@@ -17,3 +17,7 @@ DevOps is used to deliver software faster, reduce errors, and improve collaborat
 What is SDLC? (Software Development Life Cycle)
 
 SDLC is a step-by-step process used to plan, develop, test, deploy, and maintain software.
+
+What is JIRA??
+
+JIRA is a project management and issue-tracking tool used to plan, track, and manage software work.
