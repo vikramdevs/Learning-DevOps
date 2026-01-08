@@ -26,5 +26,15 @@ JIRA is a project management and issue-tracking tool used to plan, track, and ma
 
 What is Virtual Machine
 
-
 A Virtual Machine is a software-based computer that runs on a physical machine and works like a real computer, with its own operating system, CPU, memory, and storage.
+
+
+What is Kernel??
+
+Kernel:
+Kernel is the core part of an operating system that manages hardware resources (CPU, memory, disk, network) and acts as a bridge between applications and hardware.
+
+One-line (DevOps context):
+Kernel controls how apps run and use hardware—VMs have their own kernel, containers share the host kernel.
+
+Kernel is a Middleman Between Software and Hardware
