@@ -38,3 +38,7 @@ One-line (DevOps context):
 Kernel controls how apps run and use hardware—VMs have their own kernel, containers share the host kernel.
 
 Kernel is a Middleman Between Software and Hardware
+
+What is Shell Scripting
+
+Shell scripting in DevOps is the use of shell scripts to automate system, deployment, and operational tasks on Linux servers.

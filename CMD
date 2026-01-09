@@ -1,0 +1,12 @@
+ls = List
+ls -ltr = Lists files and directories in long format, sorted by modification time, in reverse order (oldest first). Oldest files appear at the top, newest at the bottom.
+
+pwd = Present Working Directory(Where I am)
+
+cd = Change Directory (To change Directory)
+cd .. = To move 1 step Back
+cd ../.. = Move 2 Step Back
+
+touch File_name = to create file
+
+cat file_name = used to display the contents of a file on the terminal.
