@@ -1,3 +1,5 @@
+man = Manual, it means through man command i can get the details of other command eg. man ls so i get the details fo ls command
+
 ls = List
 ls -ltr = Lists files and directories in long format, sorted by modification time, in reverse order (oldest first). Oldest files appear at the top, newest at the bottom.
 
@@ -9,4 +11,16 @@ cd ../.. = Move 2 Step Back
 
 touch File_name = to create file
 
-cat file_name = used to display the contents of a file on the terminal.
+cat file_name = used to display the contents of a file on the terminal.see the code
+./file_name = run the code
+
+chmod = change the permission mode of a file or directory.
+
+nano , vi and vim editor  In Vim esc then i to INSERT and :wq to save and exit  and for only exit :q
+
+r -> 4
+w -> 2
+x -> 1
+
+mkdir folder_name = to create directory or folder
+ 
