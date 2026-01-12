@@ -24,3 +24,11 @@ x -> 1
 
 mkdir folder_name = to create directory or folder
  
+df = disk free Shows disk space usage (storage). df -h
+
+free = Shows RAM and swap memory usage. free -h
+
+| Command | Checks              |
+| ------- | ------------------- |
+| `df`    | Disk (HDD / SSD)    |
+| `free`  | Memory (RAM + Swap) |
