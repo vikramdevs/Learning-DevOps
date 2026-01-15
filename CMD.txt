@@ -28,7 +28,17 @@ df = disk free Shows disk space usage (storage). df -h
 
 free = Shows RAM and swap memory usage. free -h
 
-| Command | Checks              |
-| ------- | ------------------- |
-| `df`    | Disk (HDD / SSD)    |
-| `free`  | Memory (RAM + Swap) |
+nproc = Shows the number of CPU cores available to the system.
+
+top = Shows real-time system performance.
+
+| Command | Checks             | What it shows                             |
+| ------- | ------------------ | ----------------------------------------- |
+| `df`    | Disk               | HDD / SSD usage (total, used, available)  |
+| `free`  | Memory             | RAM and Swap usage                        |
+| `nproc` | CPU                | Number of available CPU cores             |
+| `top`   | System performance | Live CPU, memory usage, running processes |
+
+
+
+set -x = debug mode for shell scripts.
