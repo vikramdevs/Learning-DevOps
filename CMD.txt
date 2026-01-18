@@ -67,3 +67,17 @@ ps → process status
 
 to search for a process use and grep is a search command
 ps -ef | grep "process_name" = to find a specific process in the list of running processes. eg. ps-ef | grep "nginx"
+
+
+awk = A powerful text-processing tool used for pattern scanning and processing. It is commonly used for extracting and manipulating data from text files or command output.
+example: ps -ef | grep "nginx" | awk '{print $2}' = this command will give only the process id of nginx process
+
+set -e = Script turant exit ho jata hai agar koi command fail (non-zero exit code) ho.
+
+set -o pipefail = Pipeline (|) ka exit status fail hoga agar pipeline ka koi bhi command fail ho.
+
+
+curl = Command-line tool for transferring data with URLs. Commonly used to make HTTP requests to web servers.
+example: curl -I www.example.com = This command fetches only the HTTP headers of the specified URL.
+
+Postman = Postman ek GUI tool hai jo APIs ko manually test karne ke liye use hota hai.
