@@ -77,7 +77,13 @@ set -e = Script turant exit ho jata hai agar koi command fail (non-zero exit cod
 set -o pipefail = Pipeline (|) ka exit status fail hoga agar pipeline ka koi bhi command fail ho.
 
 
+
 curl = Command-line tool for transferring data with URLs. Commonly used to make HTTP requests to web servers.
 example: curl -I www.example.com = This command fetches only the HTTP headers of the specified URL.
 
 Postman = Postman ek GUI tool hai jo APIs ko manually test karne ke liye use hota hai.
+
+Postman → manual testing, learning, debugging (click-based)
+curl → automation, scripts, CI/CD (command-line)
+wget → ek command-line tool hai jo internet se files download karne ke liye use hota hai. eg:- wget https://example.com/file.zip
+

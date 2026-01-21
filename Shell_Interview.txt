@@ -1,0 +1,31 @@
+
+1. List Some of the commonly used Shell Commands?
+Some commonly used Shell Commands are:
+- touch: Create a new file.
+- cat: Display the contents of a file.
+- chmod: Change file or directory permissions.
+- mkdir: Create a new directory.
+- cd: Change the current directory.
+- df: Show disk space usage.
+- free: Show RAM and swap memory usage.
+- nproc: Show the number of CPU cores available.
+- top: Show real-time system performance.
+- ps -ef: Show every running process with full details.
+
+
+2. Write a Shell Script  to list all processes?
+
+#!/bin/bash
+ps -ef      # -e is for all processes, -f is for full format
+
+3. ps -ef | awk  '{print $2}' 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
