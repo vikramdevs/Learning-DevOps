@@ -15,3 +15,14 @@ main / master → production-ready code
 feature-x → naya feature test karne ke liye
 bugfix-login → sirf bug fix
 hotfix-prod → urgent production fix
+
+Clone = remote repository ka local copy banana
+Fork = kisi aur ke repository ka apna copy banana
+
+Clone Vs Fork:
+Clone:
+- Local copy of remote repo
+- Changes not reflected in original repo
+Fork:
+- Own copy of someone else's repo
+- Changes can be proposed to original repo via pull request
