@@ -16,6 +16,8 @@ feature-x → naya feature test karne ke liye
 bugfix-login → sirf bug fix
 hotfix-prod → urgent production fix
 
+Pull Request (PR) = changes ko original repo me merge karne ka request
+
 Clone = remote repository ka local copy banana
 Fork = kisi aur ke repository ka apna copy banana
 
@@ -26,3 +28,15 @@ Clone:
 Fork:
 - Own copy of someone else's repo
 - Changes can be proposed to original repo via pull request
+
+
+How to create repo through CLI:
+1. git init = to initialize a new git repository
+2. git add . = to stage all files for commit
+3. git commit -m "Initial commit" = to commit the staged files
+4. git remote add origin <repository-URL> = to link local repo to remote repo
+5. git push -u origin main = to push local commits to remote repo
+6. For subsequent changes: 
+   - git add .
+   - git commit -m "Your message"
+   - git push
