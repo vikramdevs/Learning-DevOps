@@ -30,7 +30,7 @@ Fork:
 - Changes can be proposed to original repo via pull request
 
 
-How to create repo through CLI:
+How to create repo through CLI :
 1. git init = to initialize a new git repository
 2. git add . = to stage all files for commit
 3. git commit -m "Initial commit" = to commit the staged files
